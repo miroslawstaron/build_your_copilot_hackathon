@@ -30,13 +30,21 @@ To get the most out of the Hackathon, you should prepare for the following:
     * add a stop condition (e.g., do not generate more code than the end of the function)
     * add a skeleton code to generate test cases instead of completing the code
 * Create an add-in with the model that summarizes the code, e.g. CodeT5
- * Modify the code to generate summaries for code documentation (e.g., comments)
- * Modify the code to generate summaries for pull requests based on the selected code (e.g., based on the template for your company/product/team)
+  * Modify the code to generate summaries for code documentation (e.g., comments)
+  * Modify the code to generate summaries for pull requests based on the selected code (e.g., based on the template for your company/product/team)
 * Optional: Create a web-service
- * Follow the chapter https://1drv.ms/b/s!Avcq_JfcNezZhpscaH8QSnAMrjI4Rw?e=iFHfUU
- * Modify the code available here: https://github.com/miroslawstaron/machine_learning_best_practices/tree/main/chapter_16/predictor to use the CodeBert model
+  * Follow the chapter https://1drv.ms/b/s!Avcq_JfcNezZhpscaH8QSnAMrjI4Rw?e=iFHfUU
+  * Modify the code available here: https://github.com/miroslawstaron/machine_learning_best_practices/tree/main/chapter_16/predictor to use the CodeBert model
 3.	After the Hackathon
 * Improve on the quality of the solution to make it work for your team
 * Present it for your colleagues
 
 ## During the day
+9.00 – 9.45: Meet and greet, welcome to the Hackathon, theory behind the models
+9.45 – 11.00: Tutorial (working together) on creating extensions in Visual Studio Code
+11.00 – 12.00: Brainstorming on which task you want to do after lunch
+12.00 – 13.00: Lunch
+13.00 – 13.30: Short check-in and presentation of ideas
+13.30 – 15.00: Finalizing your solution
+15.30 – 16.30: Presentations
+16.30 – 17.00: check-out and next steps
