@@ -26,9 +26,9 @@ To get the most out of the Hackathon, you should prepare for the following:
 * Make sure that you can download models from HuggingFace, e.g.: https://huggingface.co/roberta-base 
 3.	During the Hackathon
 * Create an add-in with the CodeParrot model
- * Improve on the existing skeleton code, for example: 	
- * add a stop condition (e.g., do not generate more code than the end of the function)
- * add a skeleton code to generate test cases instead of completing the code
+  * Improve on the existing skeleton code, for example: 	
+    * add a stop condition (e.g., do not generate more code than the end of the function)
+    * add a skeleton code to generate test cases instead of completing the code
 * Create an add-in with the model that summarizes the code, e.g. CodeT5
  * Modify the code to generate summaries for code documentation (e.g., comments)
  * Modify the code to generate summaries for pull requests based on the selected code (e.g., based on the template for your company/product/team)
