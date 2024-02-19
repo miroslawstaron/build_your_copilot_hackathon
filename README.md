@@ -23,21 +23,20 @@ To get the most out of the Hackathon, you should prepare for the following:
 * Read the following chapter: B19548_13.pdf
 * Download the reference code for the add-in development: https://github.com/miroslawstaron/machine_learning_best_practices/tree/main/chapter_13 
   * This task requires installing node.js, so please read the chapter and install the dependencies needed
-e.	Make sure that you can download models from HuggingFace, e.g.: https://huggingface.co/roberta-base 
+* Make sure that you can download models from HuggingFace, e.g.: https://huggingface.co/roberta-base 
 3.	During the Hackathon
-a.	Create an add-in with the CodeParrot model
-i.	Improve on the existing skeleton code, for example: 	
-1.	add a stop condition (e.g., do not generate more code than the end of the function)
-2.	add a skeleton code to generate test cases instead of completing the code
-b.	Create an add-in with the model that summarizes the code, e.g. CodeT5
-i.	Modify the code to generate summaries for code documentation (e.g., comments)
-ii.	Modify the code to generate summaries for pull requests based on the selected code (e.g., based on the template for your company/product/team)
-c.	Optional: Create a web-service
-i.	Follow the chapter https://1drv.ms/b/s!Avcq_JfcNezZhpscaH8QSnAMrjI4Rw?e=iFHfUU
-ii.	Modify the code available here: https://github.com/miroslawstaron/machine_learning_best_practices/tree/main/chapter_16/predictor to use the CodeBert model
+* Create an add-in with the CodeParrot model
+ * Improve on the existing skeleton code, for example: 	
+ * add a stop condition (e.g., do not generate more code than the end of the function)
+ * add a skeleton code to generate test cases instead of completing the code
+* Create an add-in with the model that summarizes the code, e.g. CodeT5
+ * Modify the code to generate summaries for code documentation (e.g., comments)
+ * Modify the code to generate summaries for pull requests based on the selected code (e.g., based on the template for your company/product/team)
+* Optional: Create a web-service
+ * Follow the chapter https://1drv.ms/b/s!Avcq_JfcNezZhpscaH8QSnAMrjI4Rw?e=iFHfUU
+ * Modify the code available here: https://github.com/miroslawstaron/machine_learning_best_practices/tree/main/chapter_16/predictor to use the CodeBert model
 3.	After the Hackathon
-a.	Improve on the quality of the solution to make it work for your team
-b.	Present it for your colleagues
-
+* Improve on the quality of the solution to make it work for your team
+* Present it for your colleagues
 
 ## During the day
